@@ -1,0 +1,2 @@
+endpoint conf=1 iface=0 alt=0 proto=1 addr=0x81 attr=0x03 mps=8 interval=10
+endpoint conf=1 iface=0 alt=0 proto=1 addr=0x81 attr=0x03 mps=8 interval=10

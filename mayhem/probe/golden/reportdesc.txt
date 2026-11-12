@@ -1,0 +1,27 @@
+
+Usage Page Gen Desktop Ctrls(01)
+Usage Mouse
+Collection Application
+Usage Pointer
+Collection Physical
+Usage Page Button(09)
+Usage Min(01)
+Usage Max(03)
+Logical Min(00)
+Logical Max(01)
+Report Count(03)
+Report Size(01)
+Input(00000010)
+Report Count(01)
+Report Size(05)
+Input(00000001)
+Usage Page Gen Desktop Ctrls(01)
+Usage X
+Usage Y
+Logical Min(81)
+Logical Max(7F)
+Report Size(08)
+Report Count(02)
+Input(00000110)
+End Collection
+End Collection

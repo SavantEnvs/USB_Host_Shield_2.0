@@ -1,0 +1,4 @@
+hats 17 34 51 68
+triggers 85 102
+pressed cross=1 circle=0 l1=1 r2=1 ps=1 right=1 up=0
+click cross=1 then=0

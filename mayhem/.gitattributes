@@ -1,0 +1,3 @@
+# Seeds and reproducers are raw bytes: keep git from normalising line endings in them.
+*/testsuite/* binary
+*/known-findings/*/*.input binary

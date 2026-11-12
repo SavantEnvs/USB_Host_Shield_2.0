@@ -1,0 +1,11 @@
+project: savantenvs/USB_Host_Shield_2.0
+target: fuzz_config_desc
+
+testsuite:
+  - https://$MAYHEM_DOMAIN/$MAYHEM_PROJECT/$MAYHEM_TARGET/testsuite.tar
+  - file://mayhem/fuzz_config_desc/testsuite
+
+cmds:
+  - cmd: /mayhem/fuzz_config_desc
+    libfuzzer: true
+    timeout: 5
